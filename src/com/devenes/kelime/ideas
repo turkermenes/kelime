@@ -1,0 +1,21 @@
+günlük hedef ayarlama
+Bilmediklerim listesi ve tekrar listesi şeklinde. bilmediklerim listesinden istenilen sayıda kelime seçilir bunlar belirli sayıda alıştırma yaparak öğrenildikten sonra bilmediklerim listesinden silinerek tekrar listesine alınır.
+
+kısa vade:
+yanlış cevaplayınca doğru yeşil, diğerleri kırmızı yanar devam et denildikten sonra az önceki soruyla başlar.
+eşleştirme modu
+skor sayacı
+temalar
+
+orta vade:
+Kelime listesi seçebilme (genel kelime listesi veya öğrenilmek istenen bazı kelimeler)
+dosya konumunu kullanıcı seçebilir
+günlük hataların listesini görebilme
+farklı farklı alıştırmalar seçme imkanı
+Sözlük modu
+Seviye seviye öğretme a1 kelimelerinden c2 ye doğru bildikçe kilit açılır vs.
+Sesler ekle doğru şıkkı işaretleyince vs.
+birden fazla dil
+
+uzun vade:
+Kelimeleri otomatik telaffuz etme

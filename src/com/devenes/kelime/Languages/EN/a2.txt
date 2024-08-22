@@ -1,0 +1,827 @@
+ability,yetenek,0
+able,gücü yeten, yapabilen,0
+abroad,yurt dışında,0
+accept,kabul etmek,0
+accident,kaza, rastlantı,0
+according to,-e göre,0
+achieve,başarmak,0
+act,yapmak,0
+active,aktif,0
+actually,fiilen, aslında, hakikaten, gerçekten,0
+advantage,avantaj,0
+adventure,macera,0
+advertise,reklamını yapmak, tanıtım yapmak,0
+advertisement,reklam,0
+affect,tesir etmek, etkilemek,0
+after,sonda,0
+against,-e karşı,0
+airline,hava yolu,0
+alive,canlı,0
+all,hepsi,0
+all right,elbette ki, okey, tamam,0
+allow,izin vermek,0
+almost,neredeyse,0
+alone,yalnız,0
+along,boyunca,0
+already,hazır,0
+alternative,alternatif,0
+although,-e rağmen,0
+among,arasında,0
+amount,miktar, tutar,0
+ancient,kadim,0
+ankle,ayak bileği,0
+any,her, hiçbir,0
+anybody,hiçkimse,0
+any more,artık, başka,0
+anyway,neyse, her neyse,0
+anywhere,herhangi bir yer, hiçbir yer,0
+app,uygulama,0
+appear,görünmek, ortaya çıkmak,0
+appearance,görünüş, ortaya çıkış,0
+apply,uygulamak,0
+architect,mimar,0
+architecture,mimarlık, inşaat,0
+argue,tartışmak,0
+argument,argüman,0
+army,ordu,0
+arrange,düzenlemek, ayarlamak,0
+arrangement,aranzman, düzenleme, ayarlama,0
+as,çünkü, olarak,0
+asleep,uyuyan, tembel, uyuşuk,0
+assistant,asistan,0
+athlete,atlet,0
+attack,saldırı, saldırmak,0
+attend,katılmak,0
+attention,dikkat,0
+attractive,çekici,0
+audience,seyirci,0
+author,yazar,0
+available,müsait, uygun,0
+average,ortalama,0
+avoid,kaçınmak,0
+award,hediye, ödül,0
+awful,berbat,0
+back,geri,0
+background,arka plan,0
+badly,berbat bir şekilde,0
+baseball,beyzbol,0
+based,esaslı, yerleşik,0
+basketball,basketbol,0
+bean,fasulye,0
+bear,ayı,0
+beat,dövmek,0
+beef,sığır eti,0
+before,önce,0
+behave,davranmak,0
+behaviour,davranış,0
+belong,ait olmak,0
+belt,kayış, kemer,0
+benefit,fayda,0
+best,en iyisi,0
+better,daha iyi,0
+between,arasında,0
+billion,milyar,0
+biology,biyoloji,0
+birth,doğum,0
+biscuit,bisküvi,0
+blank,boşluk, boş,0
+blood,kan,0
+blow,esmek,0
+board,tahta,0
+boil,kaynamak,0
+bone,kılçık, kemik,0
+book,ayırtmak,0
+borrow,ödünç almak,0
+boss,patron,0
+bottom,dip, en alt,0
+bowl,tas,0
+brain,beyin,0
+bridge,köprü,0
+bright,parlak,0
+brilliant,harika,0
+broken,arızalı,0
+brush,fırçalamak,0
+burn,yakmak,0
+businessman,iş adamı,0
+button,düğme,0
+camp,kamp,0
+camping,kamp yapma,0
+can,teneke kutu,0
+care,ilgi, ilgilenmek,0
+careful,dikkatli,0
+carefully,dikkatlice,0
+carpet,halı,0
+cartoon,çizgi film,0
+case,dava,0
+cash,nakit,0
+castle,kale,0
+catch,yakalamak,0
+cause,sebep, sebep olmak,0
+celebrate,kutlamak,0
+celebrity,kutlama,0
+certain,kesin, belirli,0
+certainly,muhakkak, kesinlikle,0
+chance,şans,0
+character,karakter,0
+charity bağış, hayırseverlik,0
+chat,konuşma, sohbet etmek,0
+check,kontrol,0
+chef,aşçı,0
+chemistry,kimya,0
+choice,tercih, seçenek,0
+church,kilise,0
+cigarette,sigara,0
+circle,halka, daire, muhit,0
+classical,klasik,0
+clear,temiz,0
+clearly,açık bir şekilde,0
+clever,akıllı, zeki,0
+climate,iklim,0
+close,yakın,0
+closed,kapalı,0
+clothing,giysi, giyim,0
+cloud,bulut,0
+coach,antrenör,0
+coast,sahil,0
+code,kod,0
+colleague,kolej,0
+collect,toplamak,0
+column,köşe,0
+comedy,komedi,0
+comfortable,konforlu,0
+comment,yorum,0
+communicate,iletişim kurmak,0
+community,toplum,0
+compete,rekabet etmek, yarışmak,0
+competition,yarışma,0
+complain,şikayet etmek,0
+completely,tamamen,0
+condition,durum, şart,0
+conference,konferans,0
+connect,bağlamak,0
+connected,bağlı,0
+consider,düşünmek,0
+contain,içermek,0
+context,bağlam,0
+continent,kıta,0
+continue,devam etmek,0
+control,kontrol, kontrol etmek,0
+conversation,konuşma, sohbet,0
+cook,aşçı,0
+cooker,ocak, fırın,0
+copy,kopyalamak,0
+corner,köşe,0
+correctly,düzgün bir şekilde,0
+count,saymak,0
+couple,çift,0
+cover,kapamak, örtmek,0
+crazy,çılgın,0
+creative,yaratıcı,0
+credit,kredi,0
+crime,suç,0
+criminal,suçlu, sabıkalı,0
+cross,geçmek,0
+crowd,kalabalık, izdiham,0
+crowded,kalabalık,0
+cry,ağlamak,0
+cupboard,dolap, büfe,0
+curly,kıvırcık,0
+cycle,devir,0
+daily,günlük,0
+danger,tehlike,0
+dark,karanlık,0
+data,data, veri,0
+dead,ölü,0
+deal,anlaşma,0
+dear,tatlı, sevgili,0
+death,ölüm,0
+decision,karar,0
+deep,derin,0
+definitely,kesinlikle,0
+degree,sınıf, puan,0
+dentist,dişçi,0
+department,bölüm,0
+depend,dayanmak,0
+desert,çöl,0
+designer,tasarımcı,0
+destroy,yıkmak,0
+detective,dedektif,0
+develop,geliştirmek,0
+device,alet, edevat,0
+diary,günlük,0
+differently,farklı bir şekilde,0
+digital,dijital,0
+direct,doğru, direkt,0
+direction,yön,0
+director,yönetmen,0
+disagree,katılmamak,0
+disappear,ortadan kaybolmak,0
+disaster,felaket,0
+discover,keşfetmek,0
+discovery,keşif,0
+discussion,tartışma,0
+disease,hastalık,0
+distance,mesafe,0
+divorced,boşanmış,0
+document,belge,0
+double,çift,0
+download,indirmek,0
+downstairs,altkat,0
+drama,drama,0
+drawing,çizme,0
+dream,hayal kurma,0
+drive,dürtü,0
+driving,sürüş,0
+drop,düşürmek,0
+drug,uyuşturucu,0
+dry,kuru, kurulamak,0
+earn,para kazanmak,0
+earth,kara, yeryüzü, dünya,0
+easily,kolayca,0
+education,eğitim,0
+effect,etki,0
+either,iki, her iki, herhangi biri, de değil,0
+electronic,elektronik,0
+employ,işe almak,0
+employee,işçi,0
+employer,işveren,0
+empty,boş,0
+ending,son,0
+energy,enerji,0
+engine,motor,0
+engineer,mühendis,0
+enormous,devasa,0
+enter,girmek,0
+environment,çevre,0
+equipment,ekipman,0
+error,hata,0
+especially,özellikle,0
+essay,makale,0
+everyday,her gün,0
+everywhere,her yer,0
+evidence,kanıt,0
+exact,kesin, tamı tamına,0
+exactly,kesinlikle,0
+excellent,harika,0
+except,dışında,0
+exist,var olmak,0
+expect,ummak,0
+experience,deneyim,0
+experiment,tecrübe,0
+expert,uzman,0
+explanation,açıklama,0
+express,ifade etmek,0
+expression,ifade,0
+extreme,aşırı,0
+extremely,aşırı boyutta,0
+factor,etken, faktör,0
+factory,fabrika,0
+fail,başarısız olmak,0
+fair,adil,0
+fall,sonbahar, düşüş,0
+fan,pervane, taraftar,0
+farm,çiftçilik yapmak, ekip biçmek,0
+farming,tarım,0
+fashion,moda,0
+fat,yağ,0
+fear,korku,0
+feature,özellik,0
+feed,beslemek,0
+female,kadın,0
+fiction,kurgu,0
+field,alan, saha,0
+fight,dövüşmek,0
+figure,figür,0
+film,film çekmek,0
+final,son, final,0
+finally,sonunda,0
+finger,parmak,0
+finish,nihayet,0
+first,birinci,0
+firstly,öncelikle,0
+fish,balık avlamak,0
+fishing,balık tutma,0
+fit,uymak, uygun,0
+fix,düzeltmek,0
+flat,apartman,0
+flu,grip,0
+fly,sinek,0
+flying,uçuş,0
+focus,odaklanmak,0
+following,taraftarlar, izleyen, takip eden,0
+foreign,yabancı,0
+forest,orman,0
+fork,çatal,0
+formal,resmi,0
+fortunately,şükür ki, neyse ki,0
+forward,ileri,0
+free,beleş, muaf,0
+fresh,taze,0
+fridge,buzdolabı,0
+frog,kurbağa,0
+fun,eğlenceli,0
+furniture,mobilya,0
+further,daha ileri,0
+future,müstakbel,0
+gallery,galeri,0
+gap,boşluk,0
+gas,gaz,0
+gate,kapı,0
+general,genel, avam,0
+gift,hediye,0
+goal,hedef, amaç,0
+god,tanrı,0
+gold,altın,0
+golf,golf,0
+good,iyilik, hayır, hasenat,0
+government,hükümet,0
+grass,çimen,0
+greet,selamlaşmak,0
+ground,yer, zemin,0
+guest,misafir,0
+guide,yönlendirmek,0
+gun,silah,0
+guy,adam,0
+habit,alışkanlık,0
+half,yarı yarıya, hemen hemen,0
+hall,salon,0
+happily,mutlu bir şekilde,0
+headache,baş ağrısı,0
+heart,kalp,0
+heat,sıcaklık, öfke, ısıtmak,0
+heavy,ağır,0
+helpful,yardımsever,0
+hero,kahraman,0
+hide,saklanmak,0
+high,yüksek,0
+hill,tepe,0
+hit,vurmak, vuruş,0
+hockey,hokey,0
+hold,tutmak,0
+hole,delik,0
+home,eve ait,0
+hope,umut,0
+huge,kocaman,0
+human,insan,0
+hurt,yaralamak, acıtmak,0
+ideal,ideal,0
+identify,tanımlamak,0
+ill,hasta,0
+illness,hastalık,0
+image,imaj,0
+immediately,hemen,0
+impossible,imkansız,0
+included,içeren, içinde,0
+including,dahil,0
+increase,artmak,0
+incredible,harika,0
+independent,bağımsız,0
+individual,bireysel,0
+industry,endüstri,0
+informal,resmi olmayan,0
+injury,zarar, yara,0
+insect,böcek,0
+inside,içinde,0
+instead,-yerine,0
+instruction,talimat,0
+instructor,eğitmen,0
+instrument,enstrüman,0
+intelligent,zeki, akıllı,0
+international,uluslararası,0
+introduction,giriş,0
+invent,icat etmek,0
+invention,icat,0
+invitation,davet,0
+invite,davet etmek,0
+involve,içermek,0
+item,madde, öğe, kalem,0
+jam,reçel,0
+jazz,caz,0
+jewellery,mücevherat,0
+joke,şaka, şaka yapmak,0
+journalist,gazeteci,0
+jump,zıplamak,0
+kid,çocuk,0
+kill,öldürmek,0
+king,kral,0
+knee,diz,0
+knife,bıçak,0
+knock,vurmak, çalmak,0
+knowledge,bilgi,0
+lab,laboratuvar,0
+lady,hanımefendi,0
+lake,göl,0
+lamp,ampul, lamba,0
+land,karaya ayak basmak,0
+laptop,laptop,0
+laughter,kahkaha,0
+law,hukuk,0
+lawyer,hukukçu,0
+lazy,tembel,0
+leader,lider,0
+learning,öğrenme, öğrenim,0
+lecture,ders, Ders anlatmak,0
+lemon,limon,0
+lend,ödünç vermek,0
+level,seviye,0
+lifestyle,yaşam tarzı,0
+lift,asansör, kaldırmak,0
+light,tutuşmak, yanmak,0
+likely,büyük ihtimalle,0
+link,bağ, bağlamak,0
+listener,dinleyici,0
+little,biraz,0
+lock,kilit, kilitlemek,0
+look,görünüş, bakış,0
+lorry,kamyon,0
+lost,kayıp,0
+loud,gürültülü, yüksek sesle,0
+loudly,yüksek sesle,0
+lovely,sevimli, hoş, güzel,0
+low,düşük, az, ucuz bir şekilde,0
+luck,şans,0
+lucky,şanslı,0
+mail,posta, postalamak,0
+major,asıl, büyük,0
+male,erkek,0
+manage,idare etmek, işletmek, yönetmek,0
+manager,menajer,0
+manner,biçim, tutum, tavır,0
+mark,i̇şaret, işaretlemek,0
+marry,evlenmek,0
+material,materyal,0
+mathematics,matematik,0
+maths,matematik,0
+matter,konu, önemli olmak,0
+media,medya,0
+medical,tıbbi,0
+medicine,ilaç,0
+memory,hatıra,0
+mention,bahsetmek,0
+metal,metal,0
+method,metot,0
+middle,orta,0
+mind,akıl, önemsemek,0
+mine,benim,0
+mirror,ayna,0
+missing,özlem, eksik,0
+mobile,mobil,0
+monkey,maymun,0
+moon,ay,0
+mostly,çoğunlukla,0
+motorcycle,motor bisiklet,0
+movement,hareket,0
+musical,müzikal,0
+musician,müzisyen,0
+myself,kendi,0
+narrow,dar,0
+national,ulusal,0
+nature,doğa,0
+nearly,hemen hemen, nerdeyse,0
+necessary,gerekli, lüzumlu,0
+neck,boyun,0
+need,gerekmek,0
+neither,hiçbir, ikisinden hiçbiri,0
+nervous,gergin, sinirli,0
+network,ağ,0
+noise,ses, gürültü,0
+noisy,gürültülü,0
+none,hiçbiri,0
+normal,normal,0
+normally,normalde, normal bir şekilde,0
+notice,duyuru, fark etmek,0
+novel,roman,0
+nowhere,hiçbir yer,0
+number,numara,0
+nut,kabuklu yemiş,0
+ocean,okyanus,0
+offer,teklif etmek, teklif,0
+officer,memur,0
+oil,yağ, petrol,0
+opportunity,fırsat,0
+option,seçenek,0
+ordinary,sıradan,0
+organization,organizasyon,0
+organize,organize etmek,0
+original,orijinal,0
+outside,dışarı, dıştan,0
+oven,ocak, fırın,0
+own,sahip olmak,0
+owner,sahip,0
+pack,ambalajlamak,0
+pain,ağrı, acı,0
+painter,ressam, boyacı,0
+palace,saray,0
+pants,pantolon,0
+parking,park yapma,0
+particular,özel, belirli,0
+pass,geçmek,0
+passenger,yolcu,0
+patient,hasta,0
+pattern,model, desen,0
+pay,ödeme, ücret,0
+peace,barış,0
+penny,metelik,0
+per cent,yüzde,0
+perform,yapmak, yerine getirmek,0
+perhaps,belki,0
+permission,i̇zin,0
+personality,kişilik, şahsiyet,0
+pet,evcil hayvan,0
+petrol,petrol,0
+photograph,fotoğrafını çekmek,0
+physical,fiziki,0
+physics,fizik,0
+pick,koparmak, seçmek,0
+pilot,pilot,0
+planet,gezegen,0
+plant,dikmek, ekmek,0
+plastic,plastik,0
+plate,tabak,0
+platform,platform,0
+please,memnun etmek,0
+pleased,memnun,0
+pocket,cep,0
+polite,kibar,0
+pollution,kirlilik,0
+population,nüfus,0
+position,mevki, pozisyon,0
+possession,sahiplik,0
+possibility,olasılık, imkan,0
+poster,afiş,0
+power,güç,0
+predict,tahmin etmek,0
+present,sunmak,0
+president,başkan,0
+prevent,önlemek,0
+print,yazdırmak,0
+printer,yazıcı,0
+prison,hapishane,0
+prize,ödül,0
+process,süreç,0
+produce,üretmek,0
+professional,profesyonel,0
+professor,profesör,0
+profile,profil,0
+program,program,0
+progress,gelişim, ilerleme,0
+promise,söz vermek,0
+pronounce,telaffuz etmek,0
+protect,korumak,0
+provide,sağlamak,0
+pub,taverna,0
+public,halk,0
+publish,yayınlamak,0
+pull,çekmek,0
+purpose,amaç,0
+push,i̇tmek,0
+quality,kalite,0
+quantity,nicelik,0
+queen,kraliçe,0
+question,sorguya çekmek, ifadesini almak,0
+quietly,sessizce,0
+race (competition),yarış, yarışmak,0
+railway,tren yolu,0
+raise,kaldırmak,0
+rate,oran,0
+rather,oldukça, epeyce,0
+reach,ulaşmak,0
+react,tepki vermek,0
+realize,gerçekleştirmek,0
+receive,almak, teslim almak,0
+recent,son, taze, yakında olmuş,0
+recently,son zamanlarda, yakında,0
+reception,resepiyon,0
+recipe,yemek tarifi,0
+recognize,tanımak,0
+recommend,tavsiye etmek,0
+record,kayıt, kaydetmek,0
+recording,kayıt,0
+recycle,geri dönüştürmek,0
+reduce,azaltmak,0
+refer,anmak, bahsetmek, kastetmek,0
+refuse,reddetmek,0
+region,alan, bölge,0
+regular,düzenli,0
+relationship,ilişki,0
+remove,kaldırmak,0
+repair,tamir etmek,0
+replace,yer değiştirmek, yerine geçmek,0
+reply,cevap vermek, yanıtlamak,0
+report,rapor etmek,0
+reporter,muhabir,0
+request,i̇stek, rica,0
+researcher,araştırmacı,0
+respond,yanıtlamak,0
+response,yanıt,0
+rest (remaining part),kalan,0
+rest (sleep/relax),dinlenmek,0
+review,gözden geçirmek,0
+ride,gezinti,0
+rise,yükselmek,0
+rock (stone),kaya,0
+rock (music),rock,0
+role,rol,0
+roof,çatı,0
+route,rota, güzergah,0
+routine,rutin,0
+rubbish,çöp, enkaz,0
+rude,kaba,0
+run,koşu,0
+runner,koşucu,0
+sadly,üzüntülü bir şekilde,0
+safe, güvenli,0
+sail,denize açılmak,0
+sailing,deniz yolculuğu,0
+salary,maaş,0
+sale,satıl,0
+sauce,sos,0
+save,kurtarmak,0
+scared,korkmuş,0
+scary,korkunç,0
+scene,sahne,0
+schedule,takvim,0
+score,skor, puan, skor kaydetmek,0
+screen,ekran,0
+search,arama, aramak,0
+season,sezon,0
+seat,koltuk,0
+secret,gizli,0
+secretary,sekreter,0
+seem,görünmek,0
+sense,duyu, his,0
+separate,ayrı,0
+series,seri,0
+serious,ciddi,0
+serve,hizmet etmek,0
+service,servis,0
+several,birkaç,0
+shake,sallamak, sarsmak,0
+shape,şekil,0
+sheet,kağıt, levha, çarşaf,0
+ship,gemi,0
+shoulder,omuz,0
+shout,bağırmak,0
+shut,kapamak,0
+side,yan, yön, taraf,0
+sign,i̇şaret, belirtmek, işaretlemek,0
+silver,gümüş,0
+simple,sade, yalın,0
+since,o zamandan beri,0
+single,bekar, tek,0
+sir,efendi, sör,0
+site,site,0
+size,boyut,0
+ski, kayak,0
+skiing,kayakçılık,0
+skin,ten, cilt, deri,0
+sky,gökyüzü,0
+sleep,uyku,0
+slowly,yavaşça,0
+smartphone,akıllı telefon,0
+smell,koklamak, koku,0
+smile,gülümseme, gülmek,0
+smoke,duman, sigara içmek,0
+smoking,sigara içme,0
+soap,sabun,0
+soccer,futbol,0
+social,sosyal,0
+society,toplum,0
+sock,çorap,0
+soft,yumuşak,0
+soldier,asker,0
+solution,çözüm,0
+solve,çözmek,0
+somewhere,bir yer,0
+sort,çeşit,0
+source,kaynak,0
+speaker,konuşmacı,0
+specific,spesifik, belirli,0
+speech,konuşma,0
+speed,hız,0
+spider,örümcek,0
+spoon,kaşık,0
+square,meydan,0
+stage,aşama,0
+stair,merdiven basamağı,0
+stamp,pul, kaşe, damga,0
+start,başlangıç,0
+state,demeç,0
+stay,kalma,0
+steal,çalmak,0
+step,adım,0
+stomach,karın, mide,0
+stone,taş,0
+store,mağaza, depo,0
+storm,fırtına,0
+straight,düz,0
+strange,yabancı,0
+strategy,strateji,0
+stress,stres,0
+structure,yapı,0
+stupid,aptal,0
+succeed,başarmak,0
+successful,başarılı,0
+such,çok, böyle, öyle,0
+suddenly,aniden, birden,0
+suggest,tavsiye etmek,0
+suggestion,öneri,0
+suit,takım elbise,0
+support,destek, desteklemek,0
+suppose,varsaymak,0
+sure,emin bir şekilde,0
+surprise,sürpriz, sürpriz yapmak,0
+surprised,şaşırmış,0
+surprising,şaşırtıcı,0
+survey,anket,0
+sweet,tatlı,0
+symbol,sembol,0
+system,sistem,0
+tablet,tablet,0
+talk,konuşma,0
+target,hedef,0
+task,görev, vazife, ödev,0
+taste,tat, tatmak,0
+teaching,öğretmenlik, öğretme,0
+technology,teknoloji,0
+teenage,ergen,0
+temperature,sıcaklık,0
+term,dönem,0
+themselves,kendileri,0
+thick,kalın, yoğun,0
+thief,hırsız,0
+thin,i̇nce,0
+thinking,düşünme,0
+third,üçüncü,0
+thought,düşünce,0
+throw,atmak,0
+tidy,düzenli, derli toplu,0
+tie,bağlamak, bağ,0
+tip,bahşiş,0
+tool,araç gereç,0
+top,baş, üst,0
+touch,dokunmak,0
+tour,tur,0
+tourism,turizm,0
+towards,-e doğru,0
+towel,havlu,0
+tower,kule,0
+toy,oyuncak,0
+track,i̇z,0
+tradition,gelenek,0
+traditional,geleneksel,0
+train,eğitmek,0
+trainer,eğitimci,0
+training,eğitim,0
+transport,nakil, taşıma,0
+traveller,gezgin,0
+trouble,sorun, problem,0
+truck,kamyon,0
+twin,ikiz,0
+typical,tipik,0
+underground,yer altı,0
+understanding,anlayış,0
+unfortunately,ne yazık ki,0
+unhappy,mutsuz,0
+uniform,forma,0
+unit,birlik,0
+united,birleşmiş,0
+unusual,sıradışı, alışılmadık,0
+upstairs,üstkat,0
+use,kullanım,0
+user,kullanıcı,0
+usual,olağan, alelade,0
+valley,vadi,0
+van,karavan,0
+variety,çeşitlilik,0
+vehicle,araç,0
+view,görüş,0
+virus,virüs,0
+voice,ses,0
+wait,bekleyiş,0
+war,savaş,0
+wash,yıkama,0
+washing,yıkama,0
+wave,dalga,0
+weak,güçsüz,0
+web,ağ,0
+wedding,düğün,0
+weight,ağırlık,0
+welcome,sıcak karşılama,0
+wet,islak,0
+wheel,tekerlek,0
+while,iken,0
+whose,kimin,0
+wide,geniş, bol,0
+wild,vahşi,0
+wind,rüzgar,0
+winner,kazanan,0
+wish,dilemek, dilek,0
+wood,odun,0
+wooden,tahta,0
+working,çalışma,0
+worried,endişeli,0
+worry,endişelenmek,0
+worse,daha kötü,0
+worst,en kötü,0
+yet,henüz,0

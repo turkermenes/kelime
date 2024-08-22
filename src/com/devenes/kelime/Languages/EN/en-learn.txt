@@ -1,0 +1,78 @@
+ubiquitous,her yerde olan,0
+venerable,saygıdeğer,0
+wary,ihtiyatlı,0
+xenophobia,yabancı düşmanlığı,0
+yoke,boyunduruk,0
+zealous,gayretli,0
+ambiguous,belirsiz,0
+conundrum,ikilem,0
+disparate,farklı,0
+ephemeral,kısa ömürlü,0
+fallacy,yanılgı,0
+glib,yüzeysel,0
+hedonistic,hazcı,0
+ineffable,tanımlanamaz,0
+juxtaposition,yanyana koyma,0
+limpid,duru,0
+misanthrope,insanlardan nefret eden,0
+nonchalant,kayıtsız,0
+ostracize,dışlamak,0
+paradigm,örnek,0
+quixotic,hayalci,0
+resilient,dayanıklı,0
+sagacious,bilge,0
+tenacious,inatçı,0
+unprecedented,emsalsiz,0
+vexation,sıkıntı,0
+wistful,özlem dolu,0
+yarn,anlatı,0
+zephyr,meltem,0
+acquiesce,razı olmak,0
+belligerent,savaşçı,0
+cognizant,farkında,0
+deleterious,zararlı,0
+egregious,korkunç,0
+fastidious,titiz,0
+grandiloquent,abartılı konuşan,0
+histrionic,dramatik,0
+intransigent,uzlaşmaz,0
+jurisprudence,hukuk bilimi,0
+knavery,ahlaksızlık,0
+lachrymose,gözyaşı döken,0
+mendacious,yalancı,0
+neophyte,yeni başlayan,0
+obsequious,yağcı,0
+perfunctory,üstünkörü,0
+quandary,kararsızlık,0
+reverberate,yankılanmak,0
+scintillating,ışıltılı,0
+truculent,kavgacı,0
+unfathomable,anlaşılmaz,0
+vapid,sıkıcı,0
+wrangle,atışmak,0
+yammer,sızlanmak,0
+zealotry,fanatizm,0
+ameliorate,iyileştirmek,0
+bucolic,kırsal,0
+chicanery,aldatma,0
+diffident,çekingen,0
+enervate,zayıflatmak,0
+fatuous,aptalca,0
+garrulous,geveze,0
+hubris,kibir,0
+impecunious,parasız,0
+languid,gevşek,0
+maudlin,ağlamaklı,0
+nostalgia,geçmişe özlem,0
+ostracize,dışlamak,0
+pernicious,tehlikeli,0
+quiescent,durgun,0
+rancor,hınç,0
+spurious,sahte,0
+tenuous,ince,0
+umbrage,gücenme,0
+veracity,doğruluk,0
+wily,kurnaz,0
+yearn,özlem duymak,0
+
+

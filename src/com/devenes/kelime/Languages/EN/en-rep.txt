@@ -1,0 +1,161 @@
+supply,tedarik,0
+crop,mahsul,0
+harvest,hasat,0
+quantity,nicelik,0
+tiny,ufacık,0
+exchange,değiş tokuş,0
+streamline,kolaylaştırmak/akış çizgisi,0
+resident,sakin/ikamet eden,0
+imply,ima etmek,0
+appropriately,uygun olarak,0
+goods,mal/yük,0
+congestion,sıkışıklık,0
+bypass,atlamak,0
+corporate,kurumsal,0
+occupy,işgal etmek,0
+utilization,kullanım,0
+idling,boşta çalışma,0
+actuator,çalıştırıcı,0
+alleviate,hafifletmek,0
+frustration,hüsran,0
+ultrasound,ultrason,0
+precision,kesinlik,0
+identify,tanımlamak,0
+obstruction,engel,0
+manufacturer,imalatçı,0
+weave,dokumak,0
+sibling,kardeş,0
+crash,çarpışmak,0
+approve,onaylamak,0
+prove,kanıtlamak,0
+tenant,kiracı,0
+lamp,lamba,0
+plugging,tıkama,0
+odd,garip,0
+convergence,yaklaşım,0
+deliver,teslim etmek,0
+pump,pompa,0
+extension,eklenti,0
+conduit,kanal/su yolu,0
+revolution,devrim,0
+cabling,kablolama,0
+properties,özellikler,0
+competitive,rekabetçi,0
+occupied,meşgul,0
+encourage,cesaretlendirmek,0
+compile,derlemek,0
+across,karşıya,0
+billion,milyar,0
+innovate,yenilik yapmak,0
+transformation,dönüşüm,0
+groceries,bakkaliye,0
+generate,oluşturmak,0
+sort,çeşit,0
+business,işletme,0
+forecast,tahmin,0
+population,nüfus,0
+predict,öngörmek,0
+sufficient,yeterli,0
+foundation,kuruluş,0
+enable,olanak sağlamak,0
+evolve,evrim geçirmek,0
+plug,priz,0
+breakthrough,atılım,0
+consist,oluşmak,0
+consolidation,sağlamlaştırma,0
+insant,anlık,0
+collaboration,iş birliği,0
+connectivity,bağlantı,0
+existence,mevcudiyet,0
+interconnect,bağlantılı olmak,0
+confusing,kafa karıştırıcı,0
+comprise,kapsamak,0
+multiple,çoklu,0
+enormous,kocaman,0
+commerce,ticaret,0
+scope,kapsam,0
+commonplace,sıradan,0
+cellular,hücresel,0
+corporate,kurumsal,0
+edge,köşe/sınır,0
+boundary,sınır,0
+administered,idare edilmiş,0
+facility,yetenek/tesis,0
+acronym,kısaltma,0
+destination,varış yeri,0
+host,ev sahibi,0
+trace,işaret,0
+config,yapılandırma,0
+subnet,alt ağ,0
+portion,parça,0
+gateway,geçit,0
+prompt,harekete geçme,0
+demo,gösteri,0
+emulate,taklit etmek,0
+grayed out,grileşmiş,0
+through,yoluyla,0
+request,istek,0
+assign,belirlemek,0
+crossover,karşıya geçme,0
+grab,yakalamak,0
+indicator,gösterge,0
+negotitate,görüşmek,0
+switch,anahtar,0
+router,yönlendirici,0
+unliked,hoşlanılmamış,0
+port,liman,0
+plug,tıkaç,0
+whereas,oysa/-ken,0
+significantly,önemli,0
+extended,genişletilmiş,0
+form,biçim,0
+range,aralık/kapsam,0
+effectively,etkili bir şekilde,0
+collection,koleksiyon/toplama,0
+ultra,aşırı,0
+corporation,şirket,0
+global,küresel,0
+refer,kastetmek,0
+profit,kar,0
+aspect,taraf,0
+insight,anlayış,0
+privacy,gizlilik,0
+broader,daha geniş,0
+factor,etken,0
+impact,etki,0
+enhanced,gelişmiş/artırılmış,0
+frequently,sık sık,0
+tracer,izleyici,0
+additional,ek,0
+brewed,demleme,0
+engaged,devreye girmiş,0
+spot,yer,0
+sprinkler,fıskiye,0
+pour,dökme,0
+refrigerator,buzdolabı,0
+grid,şebeke,0
+grove,ağaçlık,0
+Aspen,toz ağacı,0
+configure,yapılandırmak,0
+mine,maden,0
+circle,daire/döngü,0
+contribute,katkı yapmak,0
+retail,perakende satış,0
+infrastructure,altyapı,0
+asset,varlık,0
+utility,fayda,0
+transmit,iletmek,0
+mesh,örgü,0
+gauge,ölçü,0
+evaluate,değerlendirmek,0
+adjust,ayarlamak,0
+embrace,kucaklamak,0
+primarily,öncelikle,0
+throughout,baştan başa,0
+gear,teçhizat,0
+massive,çok büyük,0
+immediately,hemen,0
+modify,değişiklik yapmak,0
+
+
+

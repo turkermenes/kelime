@@ -1,0 +1,20 @@
+aberration,sapma,0
+acumen,keskin zeka,0
+benevolent,iyiliksever,0
+candor,açık sözlülük,0
+debacle,fiyasko,0
+elucidate,açıklamak,0
+fortitude,metanet,0
+gregarious,sosyal,0
+harbinger,haberci,0
+impeccable,kusursuz,0
+juxtapose,yanyana koymak,0
+lucid,berrak,0
+magnanimous,bağışlayıcı,0
+nefarious,kötü,0
+obfuscate,karartmak,0
+prolific,üretken,0
+quintessential,özlü,0
+recalcitrant,asi,0
+serendipity,tesadüfi buluş,0
+taciturn,sessiz,0

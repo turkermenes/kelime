@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kelime:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kelime_jar</output-path>
+    <root id="archive" name="Kelime.jar">
+      <element id="module-output" name="Kelime" />
+    </root>
+  </artifact>
+</component>
