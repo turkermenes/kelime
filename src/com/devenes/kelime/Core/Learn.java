@@ -14,7 +14,7 @@ public class Learn {
     public ArrayList<Word> options = new ArrayList<>();
     public ArrayList<Word> words = new ArrayList<>();
     Random random = new Random();
-    String filePath = "C:\\Users\\Enest\\IdeaProjects\\Kelime\\src\\com\\devenes\\kelime\\Languages\\EN\\en-learn.txt";
+    String filePath = ".\\src\\com\\devenes\\kelime\\Languages\\EN\\en-learn.txt";
     FileHandler fileHandler = new FileHandler(filePath);
     public void generateWordList() {
         List<String> lines = fileHandler.readFile();
