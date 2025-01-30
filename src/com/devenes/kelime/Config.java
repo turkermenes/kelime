@@ -10,7 +10,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Properties;
 
 public class Config {
-    String filePath = "C:\\Users\\Enest\\IdeaProjects\\Kelime\\src\\com\\devenes\\kelime\\config.properties";
+    String filePath = ".\\src\\com\\devenes\\kelime\\config.properties";
     public Config() {
         readConfig();
     }
