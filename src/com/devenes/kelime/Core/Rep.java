@@ -10,7 +10,7 @@ public class Rep {
     public String question, answer = "";
     public List<Word> words = new ArrayList<>();
     public int correct, questionIndex = 0;
-    String filePath = "C:\\Users\\Enest\\IdeaProjects\\Kelime\\src\\com\\devenes\\kelime\\Languages\\EN\\en-learning.txt";
+    String filePath = ".\\src\\com\\devenes\\kelime\\Languages\\EN\\en-learning.txt";
     FileHandler fileHandler = new FileHandler(filePath);
     public Rep() {
         generateWords();
